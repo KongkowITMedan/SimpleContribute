@@ -11,3 +11,8 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: GIT Day
  - GitHub: [Wesley](https://github.com/willz-fortner)
+
+#### Name: [Bintang](https://github.com/bintangthunder)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Learning GIT
+ - Github: [Bintang](https://github.com/bintangthunder)
