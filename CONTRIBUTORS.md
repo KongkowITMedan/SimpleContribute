@@ -6,3 +6,8 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Learning GIT at KITM10
  - GitHub: [Roy](https://github.com/roy)
+
+ #### Name: [Wesley](https://github.com/willz-fortner)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: GIT Day
+ - GitHub: [Wesley](https://github.com/willz-fortner)
