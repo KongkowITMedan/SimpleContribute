@@ -16,3 +16,8 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Learning GIT
  - Github: [Bintang](https://github.com/bintangthunder)
+
+#### Name: [Maikel](https://mkdika.com)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Java Programmer
+ - GitHub: [mkdika](https://github.com/mkdika)
