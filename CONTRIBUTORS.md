@@ -21,3 +21,10 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Java Programmer
  - GitHub: [mkdika](https://github.com/mkdika)
+
+#### Name: [Des Dulianto](https://www.desdulianto.com)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Lifelong learning
+ - GitHub: [desdulianto](https://github.com/desdulianto)
+ - BitBucket: [desdulianto](https://bitbucket.org/desdulianto/)
+ - GitLab: [desdulianto](https://gitlab.com/desdulianto)
