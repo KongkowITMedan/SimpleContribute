@@ -6,7 +6,7 @@ List of contributor can be found in [`Contributor.md`](https://github.com/wilson
 # How to contribute to this project
 
 * Add your name to the `CONTRIBUTORS.md` file
-* Create a simple `Hello word!` script in a language of your choice
+* Create a simple `Hello world!` script in a language of your choice
 
 # Reference Links
 

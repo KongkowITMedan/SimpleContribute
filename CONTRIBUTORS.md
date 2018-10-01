@@ -28,3 +28,8 @@
  - GitHub: [desdulianto](https://github.com/desdulianto)
  - BitBucket: [desdulianto](https://bitbucket.org/desdulianto/)
  - GitLab: [desdulianto](https://gitlab.com/desdulianto)
+
+
+#### Name: [Fredy Ong Jaya](https://github.com/FredyOngJaya)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Null
