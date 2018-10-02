@@ -29,6 +29,11 @@
  - BitBucket: [desdulianto](https://bitbucket.org/desdulianto/)
  - GitLab: [desdulianto](https://gitlab.com/desdulianto)
 
+#### Name: [Ferry Irawan](https://github.com/ferrwan)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - BitBucket: [Ferry Irawan](https://bitbucket.org/ferrwan)
+ - GitLab: [Ferry Irawan](https://gitlab.com/ferrwan)
+
 #### Name: [Fredy Ong Jaya](https://github.com/FredyOngJaya)
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Null
