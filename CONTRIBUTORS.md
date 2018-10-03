@@ -37,3 +37,8 @@
 #### Name: [Fredy Ong Jaya](https://github.com/FredyOngJaya)
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Null
+
+#### Name: [Hendra](https://github.com/Hendra-Huang)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Hacktoberfest
+ - GitHub: [Hendra](https://github.com/Hendra-Huang)
