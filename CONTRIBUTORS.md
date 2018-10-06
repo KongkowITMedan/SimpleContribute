@@ -42,3 +42,8 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Hacktoberfest
  - GitHub: [Hendra](https://github.com/Hendra-Huang)
+
+#### Name: [In Sin](https://github.com/bagongkia)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Hacktoberfest
+ - GitHub: [In Sin](https://github.com/bagongkia)
