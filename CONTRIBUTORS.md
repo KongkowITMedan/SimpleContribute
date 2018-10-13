@@ -47,3 +47,8 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Hacktoberfest
  - GitHub: [In Sin](https://github.com/bagongkia)
+ 
+ #### Name: [Javentira Lienata](https://github.com/hugosvent)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Android Developer
+ - GitHub: [hugosvent](https://github.com/hugosvent)
