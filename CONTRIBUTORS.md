@@ -47,7 +47,12 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Hacktoberfest
  - GitHub: [In Sin](https://github.com/bagongkia)
- 
+
  #### Name: [Edwin Harly](https://github.com/edwinharly)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Edwin Harly](https://github.com/edwinharly)
+
+ #### Name: [Javentira Lienata](https://github.com/hugosvent)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Android Developer
+ - GitHub: [hugosvent](https://github.com/hugosvent)
