@@ -56,3 +56,7 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Android Developer
  - GitHub: [hugosvent](https://github.com/hugosvent)
+ 
+  #### Name: [Kenichi](https://github.com/PhantomX7)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - GitHub: [Kenichi](https://github.com/PhantomX7)
