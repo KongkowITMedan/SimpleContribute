@@ -48,23 +48,28 @@
  - Bio: Hacktoberfest
  - GitHub: [In Sin](https://github.com/bagongkia)
 
- #### Name: [Edwin Harly](https://github.com/edwinharly)
+#### Name: [Edwin Harly](https://github.com/edwinharly)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Edwin Harly](https://github.com/edwinharly)
 
- #### Name: [Javentira Lienata](https://github.com/hugosvent)
+#### Name: [Javentira Lienata](https://github.com/hugosvent)
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Android Developer
  - GitHub: [hugosvent](https://github.com/hugosvent)
 
-  #### Name: [Kenichi](https://github.com/PhantomX7)
+#### Name: [Kenichi](https://github.com/PhantomX7)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Kenichi](https://github.com/PhantomX7)
 
-  #### Name: [Andrew Wijaya](https://github.com/andrewdudu)
+#### Name: [Andrew Wijaya](https://github.com/andrewdudu)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Andrew Wijaya](https://github.com/andrewdudu)
 
 #### Name: [Yongky Ali](https://github.com/yongkylie)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Yongky Ali](https://github.com/yongkylie)
+
+#### Name: [Rudy](https://github.com/gh0sh)
+- Place: Medan, Sumatera Utara, Indonesia
+- Bio: Hacktoberfest
+- GitHub: [Rudy](https://github.com/gh0sh)
