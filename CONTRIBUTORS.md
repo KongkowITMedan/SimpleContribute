@@ -22,6 +22,11 @@
  - Bio: Java Programmer
  - GitHub: [mkdika](https://github.com/mkdika)
 
+#### Name: [Muhammad Rizky Hasibuan](https://github.com/riskteria)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: JavaScript Guy
+ - GitHub: [riskteria](https://github.com/riskteria)
+
 #### Name: [Des Dulianto](https://www.desdulianto.com)
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Lifelong learning
