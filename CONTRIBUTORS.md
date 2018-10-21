@@ -78,3 +78,7 @@
 - Place: Medan, Sumatera Utara, Indonesia
 - Bio: Hacktoberfest
 - GitHub: [Rudy](https://github.com/gh0sh)
+
+#### Name: [Andreas Lukita](https://github.com/dreuia)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - GitHub: [Andreas Lukita](https://github.com/dreuia)
