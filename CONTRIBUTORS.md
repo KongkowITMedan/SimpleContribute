@@ -86,3 +86,7 @@
 #### Name: [Henry](https://github.com/Henry6612700)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Henry](https://github.com/Henry6612700)
+
+#### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
+ - Place: Jakarta, Indonesia
+ - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
