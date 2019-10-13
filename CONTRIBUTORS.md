@@ -69,6 +69,7 @@
 #### Name: [Andrew Wijaya](https://github.com/andrewdudu)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Andrew Wijaya](https://github.com/andrewdudu)
+ - Gitlab: [Andrew Wijaya](https://gitlab.com/andrewdudu)
 
 #### Name: [Yongky Ali](https://github.com/yongkylie)
  - Place: Medan, Sumatera Utara, Indonesia
