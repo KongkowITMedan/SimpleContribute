@@ -91,3 +91,8 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+ 
+#### Name: [Chris](https://github.com/icsd12015)
+ - Place: Samos, Greece
+ - Bio : Hacktoberfest
+ - GitHub: [icsd12015](https://github.com/icsd12015)
