@@ -91,7 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
-
+ 
 #### Name: [Vesna Trifunoska](https://github.com/VesnaTrifunoska)
  - Place: Skopje, Macedonia
  - GitHub: [geraldsamsoir](https://github.com/VesnaTrifunoska)
