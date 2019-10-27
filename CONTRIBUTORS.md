@@ -92,10 +92,6 @@
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
  
- #### Name: [Natfan](https://github.com/natfan)
- - Place: GB
- - GitHub: [Natfan](https://github.com/natfan)
- 
-  #### Name: [Poomchaio](https://github.com/poomchaio)
- - Place: TH
- - GitHub: [Poomchaio](https://github.com/poomchaio)
+#### Name: [Vesna Trifunoska](https://github.com/VesnaTrifunoska)
+ - Place: Skopje, Macedonia
+ - GitHub: [geraldsamsoir](https://github.com/VesnaTrifunoska)
