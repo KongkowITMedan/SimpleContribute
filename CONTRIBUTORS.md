@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [Salman Iqbal](https://github.com/salmaniqbal92)
+ - Place: Karachi, Pakistan
+ - GitHub: [SalmanIqbal](https://github.com/salmaniqbal92)
