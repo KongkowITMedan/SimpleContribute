@@ -104,3 +104,6 @@
  - Place: Bangalore, Karnataka, India
  - GitHub: [Sohil Ladhani](https://github.com/sohilladhani)
 
+#### Name: [Jhan Carlos](https://github.com/ShankyJS)
+ - Place: Sonsonate, El Salvador, San Salvador
+ - GitHub: [ShankyJS](https://github.com/ShankyJS)
