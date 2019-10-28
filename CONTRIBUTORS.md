@@ -91,16 +91,19 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [Salman Iqbal](https://github.com/salmaniqbal92)
+ - Place: Karachi, Pakistan
+ - GitHub: [SalmanIqbal](https://github.com/salmaniqbal92)
  
- #### Name: [Natfan](https://github.com/natfan)
+#### Name: [Natfan](https://github.com/natfan)
  - Place: GB
  - GitHub: [Natfan](https://github.com/natfan)
  
-  #### Name: [Poomchaio](https://github.com/poomchaio)
+#### Name: [Poomchaio](https://github.com/poomchaio)
  - Place: TH
  - GitHub: [Poomchaio](https://github.com/poomchaio)
 
 #### Name: [Sohil Ladhani](https://github.com/sohilladhani)
  - Place: Bangalore, Karnataka, India
  - GitHub: [Sohil Ladhani](https://github.com/sohilladhani)
-
