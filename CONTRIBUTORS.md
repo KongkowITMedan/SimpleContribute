@@ -99,3 +99,8 @@
   #### Name: [Poomchaio](https://github.com/poomchaio)
  - Place: TH
  - GitHub: [Poomchaio](https://github.com/poomchaio)
+
+#### Name: [Sohil Ladhani](https://github.com/sohilladhani)
+ - Place: Bangalore, Karnataka, India
+ - GitHub: [Sohil Ladhani](https://github.com/sohilladhani)
+
