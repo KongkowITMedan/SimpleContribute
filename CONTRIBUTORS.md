@@ -104,3 +104,7 @@
  - Place: Bangalore, Karnataka, India
  - GitHub: [Sohil Ladhani](https://github.com/sohilladhani)
 
+#### Name: [Lucas](https://github.com/lucascruz96)
+- Place: Belo Horizonte, Minas Gerais, Brasil
+- Bio: Hacktoberfest
+- GitHub: [Lucas](https://github.com/lucascruz96)
