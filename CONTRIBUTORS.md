@@ -104,3 +104,7 @@
  - Place: Bangalore, Karnataka, India
  - GitHub: [Sohil Ladhani](https://github.com/sohilladhani)
 
+#### Name: [Marcos Baesse](https://github.com/marcosbaesse)
+ - Place: Belo Horizonte, Brazil
+ - Bio: C# programmer
+ - GitHub: [Marcos Baesse](https://github.com/marcosbaesse)
