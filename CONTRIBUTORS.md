@@ -108,3 +108,8 @@
  - Place: Belo Horizonte, Brazil
  - Bio: C# programmer
  - GitHub: [Marcos Baesse](https://github.com/marcosbaesse)
+
+#### Name: [Agung Budi Miantoro](https://github.com/agungbudimiantoro)
+ - Place: Lubuklinggau, Indonesia
+ - Bio: college student
+ - GitHub: [Agung Budi Miantoro](https://github.com/agungbudimiantoro)
