@@ -112,4 +112,4 @@
 #### Name: [Agung Budi Miantoro](https://github.com/agungbudimiantoro)
  - Place: Lubuklinggau, Indonesia
  - Bio: college student
- - GitHub: [Agung Budi Miantoro](https://github.com/agungbudimiantoro)
+ - GitHub: [AgungBudiMiantoro](https://github.com/agungbudimiantoro)
