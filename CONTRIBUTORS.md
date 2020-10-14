@@ -108,3 +108,8 @@
 - Place: Belo Horizonte, Minas Gerais, Brasil
 - Bio: Hacktoberfest
 - GitHub: [Lucas](https://github.com/lucascruz96)
+
+#### Name: [Marcos Baesse](https://github.com/marcosbaesse)
+ - Place: Belo Horizonte, Brazil
+ - Bio: C# programmer
+ - GitHub: [Marcos Baesse](https://github.com/marcosbaesse)
