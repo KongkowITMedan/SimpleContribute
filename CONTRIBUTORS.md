@@ -108,3 +108,8 @@
  - Place: Belo Horizonte, Brazil
  - Bio: C# programmer
  - GitHub: [Marcos Baesse](https://github.com/marcosbaesse)
+
+### Name: [Letizia DI MAIO](https://github.com/leta91)
+ - Place: London, UK
+ - Bio: from JS to a full React Developer
+ - GitHub: [leta91](https://github.com/leta91)
